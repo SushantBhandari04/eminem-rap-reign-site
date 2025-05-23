@@ -8,6 +8,16 @@ const Hero = () => {
       {/* Background gradient */}
       <div className="absolute inset-0 bg-gradient-to-br from-gray-900 via-black to-gray-800"></div>
       
+      {/* Eminem image with overlay */}
+      <div className="absolute inset-0 z-0 opacity-30">
+        <img 
+          src="https://i.imgur.com/2duEAn6.jpg" 
+          alt="Eminem background" 
+          className="w-full h-full object-cover object-center"
+        />
+        <div className="absolute inset-0 bg-gradient-to-t from-black via-black/70 to-transparent"></div>
+      </div>
+      
       {/* Animated background elements */}
       <div className="absolute inset-0">
         <div className="absolute top-20 left-20 w-2 h-2 bg-blue-500 rounded-full animate-pulse"></div>

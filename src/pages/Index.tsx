@@ -5,6 +5,7 @@ import Discography from '../components/Discography';
 import Timeline from '../components/Timeline';
 import BestAlbums from '../components/BestAlbums';
 import BestBars from '../components/BestBars';
+import FavoriteBarSubmission from '../components/FavoriteBarSubmission';
 import Footer from '../components/Footer';
 
 const Index = () => {
@@ -15,6 +16,7 @@ const Index = () => {
       <Discography />
       <Timeline />
       <BestBars />
+      <FavoriteBarSubmission />
       <Footer />
     </div>
   );
