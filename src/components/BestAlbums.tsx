@@ -6,21 +6,21 @@ const BestAlbums = () => {
     {
       title: "The Marshall Mathers LP",
       year: "2000",
-      image: "https://i.imgur.com/9NRFgiH.jpg", // Updated to real album cover
+      image: "https://hiphopcorner.fr/wp-content/uploads/2016/05/image-eminem-cover-album-marshall-mathers-lp.jpg",
       description: "Eminem's most personal and controversial album",
       tracks: ["The Real Slim Shady", "Stan", "The Way I Am"]
     },
     {
       title: "The Eminem Show", 
       year: "2002",
-      image: "https://i.imgur.com/7VKGHbS.jpg", // Updated to real album cover
+      image: "https://upload.wikimedia.org/wikipedia/en/3/35/The_Eminem_Show.jpg",
       description: "A masterpiece showcasing Eminem's lyrical genius",
       tracks: ["Without Me", "Lose Yourself", "Cleanin' Out My Closet"]
     },
     {
       title: "The Slim Shady LP",
       year: "1999", 
-      image: "https://i.imgur.com/I9uSWw3.jpg", // Updated to real album cover
+      image: "https://upload.wikimedia.org/wikipedia/en/3/35/Eminem_-_The_Slim_Shady_LP_CD_cover.jpg",
       description: "The album that introduced the world to Slim Shady",
       tracks: ["My Name Is", "Guilty Conscience", "Role Model"]
     }

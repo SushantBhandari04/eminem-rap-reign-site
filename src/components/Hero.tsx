@@ -11,7 +11,7 @@ const Hero = () => {
       {/* Eminem image with overlay */}
       <div className="absolute inset-0 z-0 opacity-30">
         <img 
-          src="https://i.imgur.com/2duEAn6.jpg" 
+          src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Eminem_-_Concert_for_Valor_in_Washington%2C_D.C._Nov._11%2C_2014_%282%29_%28Cropped%29.jpg" 
           alt="Eminem background" 
           className="w-full h-full object-cover object-center"
         />
